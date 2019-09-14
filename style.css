@@ -1,0 +1,52 @@
+body {
+	color: #87BBA2;
+	background-color: #C1DBB3;
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+}
+p { 
+color: #233D4D; }
+
+
+h1{
+	color: 87BBA2;
+	font-weight: bold;
+}
+
+h2{
+	color: #FE7F2D;
+	font-family: Lato 400;
+	font-weight: bold;
+}
+
+#banner {
+	text-align: center;
+	background-image: url("https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+	background-size: cover;
+	margin: 10px;
+	padding: 75px;
+}
+
+#footer {
+	background-color: #E4F2F0;
+	padding: 30px;
+}
+
+#banner p {
+	color: white;
+}
+
+.section {
+	text-align: center;
+}
+
+.socialicon {
+	color: #233D4D;
+	font-size: 40px;
+}
+
+.socialicon:hover { 
+color:#FE7F2D;
+ } 
+
+}
